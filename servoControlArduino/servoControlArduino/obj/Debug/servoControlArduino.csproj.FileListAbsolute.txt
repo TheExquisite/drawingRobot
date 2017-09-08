@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\bin\Debug\servoControlArduino.exe.config
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\bin\Debug\servoControlArduino.exe
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\bin\Debug\servoControlArduino.pdb
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.Form1.resources
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.Properties.Resources.resources
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.csproj.GenerateResource.Cache
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.exe
+C:\Users\student\source\repos\servoControlArduino\servoControlArduino\obj\Debug\servoControlArduino.pdb
